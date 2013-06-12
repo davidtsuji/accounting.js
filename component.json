@@ -1,0 +1,12 @@
+{
+  "name": "accounting",
+  "repo": "josscrowcroft/accounting.js",
+  "description": "**accounting.js** is a tiny JavaScript library for number, money and currency parsing/formatting",
+  "version": "0.3.2",
+  "dependencies": {},
+  "keywords": [],
+  "main": "accounting.js",
+  "scripts": [
+    "accounting.js"
+  ]
+}
